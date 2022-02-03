@@ -130,8 +130,7 @@ h3 {
 
 .minus,
 .add {
-    width:100px;
-    height:50px;
+   padding:10px;
 }
 
 .style-quantity {
